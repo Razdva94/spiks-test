@@ -6,7 +6,7 @@ import UiValueInputBoxes from '../../shared/uiKit/UiValueInputBoxes';
 export default function PriceRangeSlider() {
 	const [value, setValue] = React.useState<number[]>([2300, 3700]);
 
-	const handleChange = (event: Event, newValue: number | number[]) => {
+	const handleChange = (_event: Event, newValue: number | number[]) => {
 		setValue(newValue as number[]);
 	};
 

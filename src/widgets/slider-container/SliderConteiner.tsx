@@ -1,4 +1,3 @@
-import React from 'react';
 import PriceRangeSlider from '../../features/slider-features/PriceRangeSlider';
 import ProcentRangeSlide from '../../features/slider-features/ProcentRangeSlide';
 import NoseSlider from '../../features/slider-features/NoseSlider';

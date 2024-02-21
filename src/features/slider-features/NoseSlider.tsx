@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Box from '@mui/material/Box';
 import Slider from '@mui/material/Slider';
 
@@ -41,7 +41,7 @@ export default function NoseSlider() {
 		};
 	});
 
-	const handleChange = (event: Event, newValue: number | number[]) => {
+	const handleChange = (_event: Event, newValue: number | number[]) => {
 		if (typeof newValue === 'number') {
 			setActiveMark(newValue);
 		}

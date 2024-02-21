@@ -10,7 +10,7 @@ const ProcentRangeSlide: React.FC<titleProp> = ({ title }) => {
 	const [value, setValue] = React.useState<number>(10);
 
 	const handleChange = (
-		event: Event,
+		_event: Event,
 		newValue: number | number[] | undefined,
 	) => {
 		if (typeof newValue === 'number') {
