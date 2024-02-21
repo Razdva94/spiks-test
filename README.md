@@ -1,4 +1,4 @@
-# Проект: Тестовое задание. Компания "Spiks"
+# Проект: Тестовое задание. Компания "SPIKS"
 
 ## Технологии
 ![React](https://img.shields.io/badge/-React-61daf8?logo=react&logoColor=black)
