@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'proximaB';
+  src: url('../../assets/fonts/proximanova_bold.otf');
+
+}
+
+@font-face {
+  font-family: 'ProximaR';
+  src: url('../../assets/fonts/proximanova_regular.ttf');
+}
+
+@font-face {
+  font-family: 'ProximaSemi';
+  src:
+    url('../../assets//fonts/ProximaNova-Semibold.woff') format('woff'),
+    url('../../assets//fonts/ProximaNova-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
