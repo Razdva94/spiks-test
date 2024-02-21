@@ -6,8 +6,11 @@
 ![Tailwind](https://img.shields.io/badge/Tailwindcss-blue?logo=Tailwindcss&logoColor=blue&labelColor=white)
 ![Mui](https://img.shields.io/badge/Mui-blue?logo=Mui&logoColor=blue&labelColor=white)
 ![Vite](https://img.shields.io/badge/Vite-yellow?logo=Vite&logoColor=yellow&labelColor=white)
+![Redux](https://img.shields.io/badge/Redux-violet?logo=Redux&logoColor=violet&labelColor=white)
 
 
+## Описание  проекта
+Тестовое задание. Проект написан на TypeScript, c использованием RTK. Применялась компонентная структура на основе FSD архитектуры, Tailwindcss и Mui для создания стилей.
 ## Запуск проекта
 
 Для запуска проекта необходимо выполнить следующие действия:
